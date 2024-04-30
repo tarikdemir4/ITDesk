@@ -1,0 +1,6 @@
+@ITDesk.WebAPI_HostAddress = http://localhost:5021
+
+GET {{ITDesk.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
