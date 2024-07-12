@@ -1,0 +1,322 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF87463-CDBC-4AC9-8DCE-9A65C43B0592}|Server.WebApi\\Server.WebApi.csproj|c:\\users\\demir\\desktop\\ymyp2-main\\05.javascript\\itdesk\\server\\server.webapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF87463-CDBC-4AC9-8DCE-9A65C43B0592}|Server.WebApi\\Server.WebApi.csproj|solutionrelative:server.webapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\Migrations\\20240712191303_mg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Server.WebApi\\Migrations\\20240712191303_mg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF87463-CDBC-4AC9-8DCE-9A65C43B0592}|Server.WebApi\\Server.WebApi.csproj|c:\\users\\demir\\desktop\\ymyp2-main\\05.javascript\\itdesk\\server\\server.webapi\\constants\\contextconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF87463-CDBC-4AC9-8DCE-9A65C43B0592}|Server.WebApi\\Server.WebApi.csproj|solutionrelative:server.webapi\\constants\\contextconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF87463-CDBC-4AC9-8DCE-9A65C43B0592}|Server.WebApi\\Server.WebApi.csproj|c:\\users\\demir\\desktop\\ymyp2-main\\05.javascript\\itdesk\\server\\server.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDF87463-CDBC-4AC9-8DCE-9A65C43B0592}|Server.WebApi\\Server.WebApi.csproj|solutionrelative:server.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF87463-CDBC-4AC9-8DCE-9A65C43B0592}|Server.WebApi\\Server.WebApi.csproj|c:\\users\\demir\\desktop\\ymyp2-main\\05.javascript\\itdesk\\server\\server.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDF87463-CDBC-4AC9-8DCE-9A65C43B0592}|Server.WebApi\\Server.WebApi.csproj|solutionrelative:server.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF87463-CDBC-4AC9-8DCE-9A65C43B0592}|Server.WebApi\\Server.WebApi.csproj|c:\\users\\demir\\desktop\\ymyp2-main\\05.javascript\\itdesk\\server\\server.webapi\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF87463-CDBC-4AC9-8DCE-9A65C43B0592}|Server.WebApi\\Server.WebApi.csproj|solutionrelative:server.webapi\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF87463-CDBC-4AC9-8DCE-9A65C43B0592}|Server.WebApi\\Server.WebApi.csproj|c:\\users\\demir\\desktop\\ymyp2-main\\05.javascript\\itdesk\\server\\server.webapi\\dtos\\ticketchangestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF87463-CDBC-4AC9-8DCE-9A65C43B0592}|Server.WebApi\\Server.WebApi.csproj|solutionrelative:server.webapi\\dtos\\ticketchangestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF87463-CDBC-4AC9-8DCE-9A65C43B0592}|Server.WebApi\\Server.WebApi.csproj|c:\\users\\demir\\desktop\\ymyp2-main\\05.javascript\\itdesk\\server\\server.webapi\\dtos\\ticketcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF87463-CDBC-4AC9-8DCE-9A65C43B0592}|Server.WebApi\\Server.WebApi.csproj|solutionrelative:server.webapi\\dtos\\ticketcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF87463-CDBC-4AC9-8DCE-9A65C43B0592}|Server.WebApi\\Server.WebApi.csproj|c:\\users\\demir\\desktop\\ymyp2-main\\05.javascript\\itdesk\\server\\server.webapi\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF87463-CDBC-4AC9-8DCE-9A65C43B0592}|Server.WebApi\\Server.WebApi.csproj|solutionrelative:server.webapi\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF87463-CDBC-4AC9-8DCE-9A65C43B0592}|Server.WebApi\\Server.WebApi.csproj|c:\\users\\demir\\desktop\\ymyp2-main\\05.javascript\\itdesk\\server\\server.webapi\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF87463-CDBC-4AC9-8DCE-9A65C43B0592}|Server.WebApi\\Server.WebApi.csproj|solutionrelative:server.webapi\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF87463-CDBC-4AC9-8DCE-9A65C43B0592}|Server.WebApi\\Server.WebApi.csproj|c:\\users\\demir\\desktop\\ymyp2-main\\05.javascript\\itdesk\\server\\server.webapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF87463-CDBC-4AC9-8DCE-9A65C43B0592}|Server.WebApi\\Server.WebApi.csproj|solutionrelative:server.webapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF87463-CDBC-4AC9-8DCE-9A65C43B0592}|Server.WebApi\\Server.WebApi.csproj|c:\\users\\demir\\desktop\\ymyp2-main\\05.javascript\\itdesk\\server\\server.webapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF87463-CDBC-4AC9-8DCE-9A65C43B0592}|Server.WebApi\\Server.WebApi.csproj|solutionrelative:server.webapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF87463-CDBC-4AC9-8DCE-9A65C43B0592}|Server.WebApi\\Server.WebApi.csproj|c:\\users\\demir\\desktop\\ymyp2-main\\05.javascript\\itdesk\\server\\server.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF87463-CDBC-4AC9-8DCE-9A65C43B0592}|Server.WebApi\\Server.WebApi.csproj|solutionrelative:server.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF87463-CDBC-4AC9-8DCE-9A65C43B0592}|Server.WebApi\\Server.WebApi.csproj|c:\\users\\demir\\desktop\\ymyp2-main\\05.javascript\\itdesk\\server\\server.webapi\\services\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF87463-CDBC-4AC9-8DCE-9A65C43B0592}|Server.WebApi\\Server.WebApi.csproj|solutionrelative:server.webapi\\services\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF87463-CDBC-4AC9-8DCE-9A65C43B0592}|Server.WebApi\\Server.WebApi.csproj|c:\\users\\demir\\desktop\\ymyp2-main\\05.javascript\\itdesk\\server\\server.webapi\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF87463-CDBC-4AC9-8DCE-9A65C43B0592}|Server.WebApi\\Server.WebApi.csproj|solutionrelative:server.webapi\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContextConstants.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\Constants\\ContextConstants.cs",
+              "RelativeDocumentMoniker": "Server.WebApi\\Constants\\ContextConstants.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\Constants\\ContextConstants.cs",
+              "RelativeToolTip": "Server.WebApi\\Constants\\ContextConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:11:52.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Server.WebApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\appsettings.Development.json",
+              "RelativeToolTip": "Server.WebApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T19:11:29.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Server.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\appsettings.json",
+              "RelativeToolTip": "Server.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T19:11:27.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicketChangeStatusDto.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\DTOs\\TicketChangeStatusDto.cs",
+              "RelativeDocumentMoniker": "Server.WebApi\\DTOs\\TicketChangeStatusDto.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\DTOs\\TicketChangeStatusDto.cs",
+              "RelativeToolTip": "Server.WebApi\\DTOs\\TicketChangeStatusDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:11:24.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\DTOs\\TicketCreateDto.cs",
+              "RelativeDocumentMoniker": "Server.WebApi\\DTOs\\TicketCreateDto.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\DTOs\\TicketCreateDto.cs",
+              "RelativeToolTip": "Server.WebApi\\DTOs\\TicketCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:11:24.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Server.WebApi\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Server.WebApi\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:11:24.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "Server.WebApi\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\Models\\Ticket.cs",
+              "RelativeToolTip": "Server.WebApi\\Models\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:11:24.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "Server.WebApi\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "Server.WebApi\\Controllers\\TicketsController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwDEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:11:24.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Server.WebApi\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\Services\\AuthService.cs",
+              "RelativeToolTip": "Server.WebApi\\Services\\AuthService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAvwDkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:11:24.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240712191303_mg1.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\Migrations\\20240712191303_mg1.cs",
+              "RelativeDocumentMoniker": "Server.WebApi\\Migrations\\20240712191303_mg1.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\Migrations\\20240712191303_mg1.cs",
+              "RelativeToolTip": "Server.WebApi\\Migrations\\20240712191303_mg1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:13:03.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Server.WebApi\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "Server.WebApi\\DTOs\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:11:24.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Server.WebApi\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\Models\\User.cs",
+              "RelativeToolTip": "Server.WebApi\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:11:24.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\DTOs\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "Server.WebApi\\DTOs\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\DTOs\\LoginResponseDto.cs",
+              "RelativeToolTip": "Server.WebApi\\DTOs\\LoginResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:11:24.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Server.WebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Server.WebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:11:24.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\Services\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "Server.WebApi\\Services\\JwtProvider.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YMYP2-main\\05.JavaScript\\ITDesk\\Server\\Server.WebApi\\Services\\JwtProvider.cs",
+              "RelativeToolTip": "Server.WebApi\\Services\\JwtProvider.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAMwDIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:11:24.927Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1871,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 2548,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
